@@ -1,0 +1,8 @@
+{
+  "name": "AfroElegance - Moda e Beleza Africana",
+  "description": "Uma plataforma elegante que celebra a cultura e a beleza africana através de moda contemporânea, cuidados capilares e acessórios artesanais.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
